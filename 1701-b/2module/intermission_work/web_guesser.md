@@ -32,7 +32,7 @@ Github Repo Link: https://github.com/caward12/web_guesser
 
 ## Craig Ness
 
-Github Repo Link:
+Github Repo Link: https://github.com/NessEFC/web_guesser
 
 -----
 
