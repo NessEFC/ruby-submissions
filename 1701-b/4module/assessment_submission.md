@@ -14,10 +14,10 @@
 
 # Craig Ness
 
-- URL Lockbox Github Repo Link: [Repo](https://github.com/NessEFC/m4-final-starter)
-- URL Lockbox Production Link: 
-- Hot Reads Github Repo Link:
-- Hot Reads Production Link: 
+- URL Lockbox Github Repo Link: [URLockBox Repo](https://github.com/NessEFC/m4-final-starter)
+- URL Lockbox Production Link: [URLockBox App](https://polar-plateau-61904.herokuapp.com/)
+- Hot Reads Github Repo Link: [Hot Reads Repo](https://github.com/NessEFC/hot_reads)
+- Hot Reads Production Link: [Hot Reads App](https://obscure-caverns-10564.herokuapp.com/)
 
 # Erin Bassity
 
